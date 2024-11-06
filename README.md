@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer science and Astrophzsics student<br>🔭 I’m currently working on improving my c++ skills<br>🌱 I’m currently learning c++<br>
+🎓 Computer science and Astrophysics student<br>🔭 I’m currently working on improving my c++ skills<br>🌱 I’m currently learning c++<br>
 
 
 ## 🌐 Socials:
