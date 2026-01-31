@@ -91,7 +91,24 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 
 ## 🚀 Featured Projects
 
-*Coming soon! I'm currently working on building portfolio projects that showcase my ML skills.*
+### 🌞 [Solar Tracking - Differential Rotation Analysis](https://github.com/quooky/solar_tracking)
+**Bachelor Thesis Project | Astrophysics**
+
+A Python-based computer vision tool for tracking sunspots and analyzing the Sun's differential rotation using HMI continuum images from NASA's Solar Dynamics Observatory.
+
+**Key Features:**
+- Automated sunspot detection using adaptive thresholding and OpenCV
+- Real-time tracking with interactive visualization
+- Coordinate transformation from pixel to heliographic coordinates
+- Differential rotation curve fitting and analysis
+
+**Tech Stack:** `Python` `OpenCV` `SunPy` `Astropy` `NumPy` `SciPy` `Matplotlib`
+
+📄 [Read the full thesis](https://github.com/quooky/solar_tracking/blob/main/docs/thesis.pdf)
+
+---
+
+*More projects coming soon as I build my ML/AI portfolio!*
 
 ---
 ## 📊 GitHub Stats
