@@ -15,55 +15,32 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 
 ---
 
-## 🏆 Certifications
+## 🏅 Awards
+- **Merit Scholarship (Leistungsstipendium)** | Computer Science, University of Vienna | 2024/25  
+  *Awarded for outstanding academic performance in first year*
 
-<table>
-  <tr>
-    <td><b>Course / Specialization</b></td>
-    <td><b>Provider</b></td>
-    <td><b>Status</b></td>
-    <td><b>Credential</b></td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning Specialization</b></td>
-    <td>DeepLearning.AI / Coursera</td>
-    <td>🔄 In Progress</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;→ Supervised Machine Learning: Regression and Classification</td>
-    <td>DeepLearning.AI / Coursera</td>
-    <td>✅ Completed </td>
-    <td><a href="https://www.coursera.org/account/accomplishments/verify/M7S3E1KD6F04">View Certificate</a></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;→ Advanced Learning Algorithms</td>
-    <td>DeepLearning.AI / Coursera</td>
-    <td>✅ Completed</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;→ Unsupervised Learning, Recommenders, Reinforcement Learning</td>
-    <td>DeepLearning.AI / Coursera</td>
-    <td>🔄 In Progress</td>
-    <td>-<td>
-  </tr>
-  <tr>
-    <td><b>IBM Generative AI Engineer Professional Certificate</b></td>
-    <td>IBM / Coursera</td>
-    <td>📅 Planned</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>PyTorch for Deep Learning Professional Certificate</b></td>
-    <td>Coursera</td>
-    <td>📅 Planned</td>
-    <td>-</td>
-  </tr>
-</table>
+## 🎓 Education
+
+**Computer Science (B.Sc., ongoing)** | University of Vienna | 2024-present
+- Interests: Machine Learning, Deep Learning, Artificial Intelligence
+
+**Astrophysics (B.Sc.)** | University of Vienna | 2020-2024
+- Bachelor Thesis: "Solar Rotation" - Implementation available in portfolio projects
 
 ---
 
+## 🏆 Certifications
+
+| Course / Specialization | Provider | Status | Credential |
+|:---|:---:|:---:|:---:|
+| **Machine Learning Specialization** | DeepLearning.AI / Coursera | 🔄 In Progress | - |
+| &nbsp;&nbsp;&nbsp;&nbsp;↳ Supervised Machine Learning: Regression and Classification | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/M7S3E1KD6F04) |
+| &nbsp;&nbsp;&nbsp;&nbsp;↳ Advanced Learning Algorithms | DeepLearning.AI / Coursera | ✅ Completed | - |
+| &nbsp;&nbsp;&nbsp;&nbsp;↳ Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI / Coursera | 🔄 In Progress | - |
+| **IBM Generative AI Engineer Professional Certificate** | IBM / Coursera | 📅 Planned | - |
+| **PyTorch for Deep Learning Professional Certificate** | Coursera | 📅 Planned | - |
+
+---
 ## 💻 Tech Stack
 
 ### Programming Languages
