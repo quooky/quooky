@@ -46,7 +46,7 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
     <td>&nbsp;&nbsp;&nbsp;&nbsp;→ Unsupervised Learning, Recommenders, Reinforcement Learning</td>
     <td>DeepLearning.AI / Coursera</td>
     <td>🔄 In Progress</td>
-    <td>-/td>
+    <td>-<td>
   </tr>
   <tr>
     <td><b>IBM Generative AI Engineer Professional Certificate</b></td>
