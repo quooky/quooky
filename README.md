@@ -26,7 +26,7 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 
 **Astrophysics (B.Sc.)** | University of Vienna | 2020-2024
 - Bachelor Thesis: "Solar Rotation" - Implementation available in portfolio projects
-- 
+
 ## 💼 Professional Experience
 
 **CAD Designer** | Steel Production & Casting | 2019-2020
