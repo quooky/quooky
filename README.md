@@ -40,7 +40,7 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 |:---|:---:|:---:|:---:|
 | **Machine Learning Specialization** | DeepLearning.AI / Coursera | 🔄 In Progress | - |
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Supervised Machine Learning: Regression and Classification | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/M7S3E1KD6F04) |
-| &nbsp;&nbsp;&nbsp;&nbsp;↳ Advanced Learning Algorithms | DeepLearning.AI / Coursera | ✅ Completed | - |
+| &nbsp;&nbsp;&nbsp;&nbsp;↳ Advanced Learning Algorithms | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/033S8IA248PP)|
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI / Coursera | 🔄 In Progress | - |
 | **IBM Generative AI Engineer Professional Certificate** | IBM / Coursera | 📅 Planned | - |
 | **PyTorch for Deep Learning Professional Certificate** | Coursera | 📅 Planned | - |
