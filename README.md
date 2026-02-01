@@ -67,6 +67,11 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
+### Additional Skills
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 *Currently learning: PyTorch, Advanced Deep Learning techniques*
 
 ---
@@ -105,11 +110,11 @@ A comprehensive relational database system for managing and analyzing exoplanet 
 
 📊 [View ER Diagram](https://github.com/quooky/exoplanet-explorer-db/blob/main/diagrams/ER_diagram.png)
 
----
 
 *More projects coming soon as I build my ML/AI portfolio!*
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
