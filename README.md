@@ -6,6 +6,11 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 
 ---
 
+![Update](https://img.shields.io/badge/Latest_Update-Feb_2026-brightgreen?style=for-the-badge)
+> Just published my [**Wumpus World Logical Agent**](https://github.com/quooky/wumpus-world-agent) project! 🎮 Currently completing the Machine Learning Specialization by DeepLearning.AI and planing to make some ML projects. Open to collaborations and opportunities in ML/AI!
+---
+
+
 ## 🎯 Current Focus
 
 - 🧠 Completing **Machine Learning Specialization** by DeepLearning.AI
@@ -110,20 +115,26 @@ A comprehensive relational database system for managing and analyzing exoplanet 
 
 📊 [View ER Diagram](https://github.com/quooky/exoplanet-explorer-db/blob/main/diagrams/ER_diagram.png)
 
+---
+
+### 📂 Other Projects
+
+| Category | Project | Description | Tech Stack |
+|:---------|:--------|:------------|:-----------|
+| AI / Intelligent Systems | [🎮 Wumpus World Agent](https://github.com/quooky/wumpus-world-agent) | Knowledge-based logical agent using BFS pathfinding and inference rules to navigate a dangerous cave environment | `Python` `AI Logic` `Search Algorithms` |
 
 *More projects coming soon as I build my ML/AI portfolio!*
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=quooky&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=quooky&theme=ocean_dark&hide_border=false)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=quooky&show_icons=true&theme=ocean_dark)](https://github.com/quooky)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quooky&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quooky&theme=ocean-dark&hide_border=false)](https://github.com/quooky)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quooky&layout=compact&theme=ocean_dark)](https://github.com/quooky)
 
 </div>
 
