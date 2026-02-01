@@ -90,6 +90,23 @@ A Python-based computer vision tool for tracking sunspots and analyzing the Sun'
 
 ---
 
+### 🌍🧗🏼‍♀️ [Exoplanet Explorer Database](https://github.com/quooky/exoplanet-explorer-db)
+**Database Systems Project | Computer Science**
+
+A comprehensive relational database system for managing and analyzing exoplanet data from NASA's Exoplanet Archive, implementing the complete database design lifecycle.
+
+**Key Features:**
+- Complete ER modeling with inheritance and recursive relationships
+- Normalized schema (3NF) with constraints, triggers, and views
+- Automated data pipeline ingesting ~1,248 confirmed exoplanets from NASA API
+- Advanced SQL techniques: composite keys, cascade rules, business logic triggers
+
+**Tech Stack:** `Oracle SQL` `Python` `oracledb` `Pandas` `NASA Exoplanet Archive API`
+
+📊 [View ER Diagram](https://github.com/quooky/exoplanet-explorer-db/blob/main/diagrams/ER_diagram.png)
+
+---
+
 *More projects coming soon as I build my ML/AI portfolio!*
 
 ---
