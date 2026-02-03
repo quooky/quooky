@@ -45,11 +45,11 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 
 | Course / Specialization | Provider | Status | Credential |
 |:---|:---:|:---:|:---:|
-| **Machine Learning Specialization** | DeepLearning.AI / Coursera | 🔄 In Progress | - |
+| **IBM AI Engineering Professional Certificate** | IBM / Coursera | 🔄 In Progress | - |
+| **Machine Learning Specialization** | DeepLearning.AI / Coursera | ✅ Completed| - |
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Supervised Machine Learning: Regression and Classification | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/M7S3E1KD6F04) |
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Advanced Learning Algorithms | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/033S8IA248PP)|
-| &nbsp;&nbsp;&nbsp;&nbsp;↳ Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI / Coursera | 🔄 In Progress | - |
-| **IBM AI Engineering Professional Certificate** | IBM / Coursera | 📅 Planned | - |
+| &nbsp;&nbsp;&nbsp;&nbsp;↳ Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/M04HA111BXLK) |
 | IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate| IBM / Coursera | 💭 Maybe | - |
 | ~~PyTorch for Deep Learning Professional Certificate~~ | Coursera | 🚫 Dropped | Focus on IBM AI Engineering |
 
