@@ -8,13 +8,15 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 
 ![Update](https://img.shields.io/badge/Latest_Update-Feb_2026-brightgreen?style=for-the-badge)
 > Just published my [**Wumpus World Logical Agent**](https://github.com/quooky/wumpus-world-agent) project! 🎮 Currently completing the Machine Learning Specialization by DeepLearning.AI and planing to make some ML projects. Open to collaborations and opportunities in ML/AI!
+>
+> _Stand: 2026-02-03_
 ---
 
 
 ## 🎯 Current Focus
 
 - 🧠 Completing **Machine Learning Specialization** by DeepLearning.AI
-- 📚 Next up: **IBM Generative AI Engineer Professional Certificate** & **PyTorch for Deep Learning**
+- 📚 Next up: **IBM AI Engineering Professional Certificate**
 - 🛠️ Creating production-style ML & DL projects to showcase my skills and real-world problem-solving abilities.
 - 💼 Open to collaborations and opportunities in ML/AI
 
@@ -47,8 +49,10 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Supervised Machine Learning: Regression and Classification | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/M7S3E1KD6F04) |
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Advanced Learning Algorithms | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/033S8IA248PP)|
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI / Coursera | 🔄 In Progress | - |
-| **IBM Generative AI Engineer Professional Certificate** | IBM / Coursera | 📅 Planned | - |
-| **PyTorch for Deep Learning Professional Certificate** | Coursera | 📅 Planned | - |
+| **IBM AI Engineering Professional Certificate** | IBM / Coursera | 📅 Planned | - |
+| IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate| IBM / Coursera | 💭 Maybe | - |
+| ~~PyTorch for Deep Learning Professional Certificate~~ | Coursera | 🚫 Dropped | Focus on IBM AI Engineering |
+
 
 ---
 ## 💻 Tech Stack
