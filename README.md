@@ -15,7 +15,7 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 
 ## 🎯 Current Focus
 
-- 🧠 Doing **IBM AI Engineering Professional Certificate**
+- 🧠 Doing: **IBM Machine Learning Professional Certificate**
 - 📚 Next up: Creating some ML projects
 - 🛠️ Creating production-style ML & DL projects to showcase my skills and real-world problem-solving abilities.
 - 💼 Open to collaborations and opportunities in ML/AI
@@ -45,7 +45,7 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 
 | Course / Specialization | Provider | Status | Credential |
 |:---|:---:|:---:|:---:|
-| **IBM AI Engineering Professional Certificate** | IBM / Coursera | 🔄 In Progress | - |
+| **IBM Machine Learning Professional Certificate** | IBM / Coursera | 🔄 In Progress | - |
 | **Machine Learning Specialization** | DeepLearning.AI / Coursera | ✅ Completed| [View Certificate](https://www.coursera.org/account/accomplishments/specialization/3ZA378AZT67T) |
 | IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate| IBM / Coursera | 💭 Maybe | - |
 | ~~PyTorch for Deep Learning Professional Certificate~~ | Coursera | 🚫 Dropped | Focus on IBM AI Engineering |
