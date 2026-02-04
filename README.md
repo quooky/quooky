@@ -7,16 +7,16 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 ---
 
 ![Update](https://img.shields.io/badge/Latest_Update-Feb_2026-brightgreen?style=for-the-badge)
-> Just published my [**Wumpus World Logical Agent**](https://github.com/quooky/wumpus-world-agent) project! 🎮 Currently completing the Machine Learning Specialization by DeepLearning.AI and planing to make some ML projects. Open to collaborations and opportunities in ML/AI!
+> Just published my [**Wumpus World Logical Agent**](https://github.com/quooky/wumpus-world-agent) project! 🎮 Just finished the [Machine Learning Specialization by DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/3ZA378AZT67T) and planing to make some ML projects. Open to collaborations and opportunities in ML/AI!
 >
-> _Stand: 2026-02-03_
+> _Stand: 2026-02-04_
 ---
 
 
 ## 🎯 Current Focus
 
-- 🧠 Completing **Machine Learning Specialization** by DeepLearning.AI
-- 📚 Next up: **IBM AI Engineering Professional Certificate**
+- 🧠 Doing **IBM AI Engineering Professional Certificate**
+- 📚 Next up: Creating some ML projects
 - 🛠️ Creating production-style ML & DL projects to showcase my skills and real-world problem-solving abilities.
 - 💼 Open to collaborations and opportunities in ML/AI
 
@@ -46,7 +46,7 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 | Course / Specialization | Provider | Status | Credential |
 |:---|:---:|:---:|:---:|
 | **IBM AI Engineering Professional Certificate** | IBM / Coursera | 🔄 In Progress | - |
-| **Machine Learning Specialization** | DeepLearning.AI / Coursera | ✅ Completed| - |
+| **Machine Learning Specialization** | DeepLearning.AI / Coursera | ✅ Completed| [View Certificate](https://www.coursera.org/account/accomplishments/specialization/3ZA378AZT67T) |
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Supervised Machine Learning: Regression and Classification | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/M7S3E1KD6F04) |
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Advanced Learning Algorithms | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/033S8IA248PP)|
 | &nbsp;&nbsp;&nbsp;&nbsp;↳ Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI / Coursera | ✅ Completed | [View Certificate](https://www.coursera.org/account/accomplishments/verify/M04HA111BXLK) |
