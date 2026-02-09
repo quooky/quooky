@@ -124,9 +124,9 @@ A comprehensive relational database system for managing and analyzing exoplanet 
 | Category | Project | Description | Tech Stack | |
 |:---------|:--------|:------------|:-----------|:------------|
 | AI / Intelligent Systems | [🎮 Wumpus World Agent](https://github.com/quooky/wumpus-world-agent) | Knowledge-based logical agent using BFS pathfinding and inference rules to navigate a dangerous cave environment | `Python` `AI Logic` `Search Algorithms` | ✅|
+| ML | [📊 Student Performance EDA](https://github.com/quooky/student-performance-eda) | Exploratory data analysis of student performance data, investigating factors affecting academic outcomes through statistical analysis and visualization | `Python` `Pandas` `Matplotlib` `Seaborn` | ✅|
 | ML | Image Compression using K-Means Clustering | Implemented image compression by reducing color space using k-means clustering on pixel values, demonstrating unsupervised learning for efficient image representation | `Python` `NumPy` `Unsupervised Learning` | 📅 |
 | ML | Unsupervised Learning – Patient Data Clustering | Implementing k-means clustering to identify anomalies in patient datasets using data from the mala-lab repository | `Python` `Unsupervised Learning` | 📅 |
-
 📅 Planned  🚧 In Development  ✅ Finished 
 
 *More projects coming soon as I build my ML/AI portfolio!*
