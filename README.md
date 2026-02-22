@@ -47,7 +47,7 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 |:---|:---:|:---:|:---:|
 | **IBM Machine Learning Professional Certificate** | IBM / Coursera | 🔄 In Progress | - |
 |↳ Exploratory Data Analysis for Machine Learning |IBM / Coursera |✅ Completed |[View Certificate](https://www.credly.com/badges/6e15d321-043a-4593-8030-55fcf2383b86/public_url)|
-|↳ Supervised Machine Learning: Regression |IBM / Coursera |✅ Completed |[View Certificate](https://coursera.org/share/05bc01734e2f9178dd36478b7b37c495)|
+|↳ Supervised Machine Learning: Regression |IBM / Coursera |✅ Completed |[View Certificate](https://www.credly.com/badges/70541d9f-e190-4d15-86e7-4bbefed7d655/public_url)|
 | **Machine Learning Specialization** | DeepLearning.AI / Coursera | ✅ Completed| [View Certificate](https://www.coursera.org/account/accomplishments/specialization/3ZA378AZT67T) |
 | IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate| IBM / Coursera | 💭 Maybe | - |
 | ~~PyTorch for Deep Learning Professional Certificate~~ | Coursera | 🚫 Dropped | Focus on IBM AI Engineering |
