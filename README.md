@@ -7,9 +7,9 @@ BSc in Astrophysics graduate pursuing Computer Science with a passion for applyi
 ---
 
 ![Update](https://img.shields.io/badge/Latest_Update-Feb_2026-brightgreen?style=for-the-badge)
-> Just published my [**Wumpus World Logical Agent**](https://github.com/quooky/wumpus-world-agent) project! 🎮 Just finished the [Machine Learning Specialization by DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/3ZA378AZT67T) and planing to make some ML projects. Open to collaborations and opportunities in ML/AI!
+> Just published my [**Medical Insurance Regression**](https://github.com/quooky/medical-insurance-regression) project! 📈 Predicting insurance charges with Ridge, Lasso & ElasticNet. Also completed the [Supervised Machine Learning: Regression](https://www.coursera.org/learn/supervised-machine-learning-regression) on course. Open to collaborations and opportunities in ML/AI!
 >
-> _Stand: 2026-02-04_
+> _Stand: 2026-02-22_
 ---
 
 
